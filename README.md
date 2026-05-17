@@ -44,7 +44,7 @@
 
 <br>
 
-[📓 View Notebook](#-notebook-breakdown-30-sections-70-visualizations) · [📊 Results](#-model-performance-benchmarks) · [🚀 Quick Start](#-quick-start) · [📋 Report](UPI%20Payment%20Transactions%20Analytics%20%26%20Fraud%20Detection%20Project%20Report.docx)
+[📓 View Notebook](#-notebook-breakdown-30-sections-70-visualizations) · [📊 Results](#-model-performance-benchmarks) · [🚀 Quick Start](#-quick-start) · [📋 Report](UPI%20Payment%20Transactions%20Analytics%20%26%20Fraud%20Detection%20Project%20Report.docx) · [🗄️ Dataset](https://www.kaggle.com/datasets/maulikgajera/upi-payment-transactions-india)
 
 </div>
 
@@ -195,6 +195,8 @@ Vaishnavi Nepal/
 ## 📊 Dataset Specification
 
 The project relies on a deeply realistic, **100% synthetically generated dataset** simulating the 2024 UPI ecosystem with controlled noise, realistic statistical distributions, and industry-standard fraud patterns.
+
+🔗 **Dataset Source:** [UPI Payment Transactions in India (Kaggle)](https://www.kaggle.com/datasets/maulikgajera/upi-payment-transactions-india)
 
 <br>
 
