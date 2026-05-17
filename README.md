@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=UPI%20Fintech%20Analytics&fontSize=48&fontColor=e94560&fontAlignY=35&desc=Risk%20Intelligence%20%26%20Fraud%20Detection%20Pipeline&descSize=18&descColor=ffffff&descAlignY=55&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=220&amp;section=header&amp;text=UPI%20Fintech%20Analytics&amp;fontSize=48&amp;fontColor=e94560&amp;fontAlignY=35&amp;desc=Risk%20Intelligence%20%26%20Fraud%20Detection%20Pipeline&amp;descSize=18&amp;descColor=ffffff&amp;descAlignY=55&amp;animation=fadeIn" width="100%" alt="Header" />
 
 <br>
 
@@ -529,6 +529,6 @@ If you found this project valuable, please consider giving it a ⭐
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=footer&animation=fadeIn" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1a2e,50:16213e,100:0f3460&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%" alt="Footer" />
 
 </div>
